@@ -1,0 +1,211 @@
+DMA Code,DMA Name,TOTAL HH
+662,Abilene-Sweetwater,121200
+525,"Albany, GA",152700
+532,Albany-Schenectady-Troy,574700
+790,Albuquerque-Santa Fe,748300
+644,"Alexandria, LA",92900
+583,Alpena,17600
+634,Amarillo,206400
+743,Anchorage,171700
+524,Atlanta,2520200
+520,Augusta-Aiken,274700
+635,Austin,824700
+800,Bakersfield,238200
+512,Baltimore,1152000
+537,Bangor,148100
+716,Baton Rouge,350800
+692,Beaumont-Port Arthur,175200
+821,"Bend, OR",71500
+756,Billings,120200
+746,Biloxi-Gulfport,137500
+502,Binghamton,140300
+630,Birmingham (Ann and Tusc),750000
+559,Bluefield-Beckley-Oak Hill,138100
+757,Boise,289800
+506,Boston (Manchester),2575000
+736,Bowling Green,86100
+514,Buffalo,647800
+523,Burlington-Plattsburgh,349200
+754,Butte-Bozeman,76500
+767,Casper-Riverton,61200
+637,Cedar Rapids-Wtrlo-IWC&Dub,366800
+648,Champaign&Sprngfld-Decatur,396900
+519,"Charleston, SC",349800
+564,Charleston-Huntington,469500
+517,Charlotte,1223200
+584,Charlottesville,82800
+575,Chattanooga,376200
+759,Cheyenne-Scottsbluff,60300
+602,Chicago,3612900
+868,Chico-Redding,206100
+515,Cincinnati,925800
+598,Clarksburg-Weston,111500
+510,Cleveland-Akron (Canton),1568400
+752,Colorado Springs-Pueblo,376300
+546,"Columbia, SC",425700
+604,Columbia-Jefferson City,186700
+522,"Columbus, GA (Opelika, AL)",233200
+535,"Columbus, OH",986900
+673,Columbus-Tupelo-W Pnt-Hstn,194400
+600,Corpus Christi,221700
+623,Dallas-Ft. Worth,2786200
+682,Davenport-R.Island-Moline,316100
+542,Dayton,489000
+751,Denver,1760300
+679,Des Moines-Ames,461100
+505,Detroit,1919100
+606,Dothan,104200
+676,Duluth-Superior,181300
+765,El Paso (Las Cruces),358200
+565,Elmira (Corning),100300
+516,Erie,162400
+801,Eugene,261100
+802,Eureka,66700
+649,Evansville,297200
+745,Fairbanks,40600
+724,Fargo-Valley City,270200
+513,Flint-Saginaw-Bay City,460000
+866,Fresno-Visalia,612700
+571,Ft. Myers-Naples,547900
+670,Ft. Smith-Fay-Sprngdl-Rgrs,320300
+509,Ft. Wayne,280700
+592,Gainesville,135200
+798,Glendive,4700
+773,Grand Junction-Montrose,75200
+563,Grand Rapids-Kalmzoo-B.Crk,780100
+755,Great Falls,70500
+658,Green Bay-Appleton,466600
+518,Greensboro-H.Point-W.Salem,720900
+545,Greenville-N.Bern-Washngtn,323400
+567,Greenvll-Spart-Ashevll-And,910400
+647,Greenwood-Greenville,67800
+636,Harlingen-Wslco-Brnsvl-McA,390500
+566,Harrisburg-Lncstr-Leb-York,783000
+569,Harrisonburg,100500
+533,Hartford & New Haven,1034100
+710,Hattiesburg-Laurel,115500
+766,Helena,30900
+744,Honolulu,483400
+618,Houston,2450300
+691,Huntsville-Decatur (Flor),411800
+758,Idaho Fals-Pocatllo(Jcksn),134200
+527,Indianapolis,1169500
+718,"Jackson, MS",343500
+639,"Jackson, TN",97000
+561,Jacksonville,719100
+574,Johnstown-Altoona-St Colge,302300
+734,Jonesboro,84600
+603,Joplin-Pittsburg,156500
+747,Juneau,29700
+616,Kansas City,986300
+557,Knoxville,552400
+702,La Crosse-Eau Claire,226400
+582,"Lafayette, IN",74700
+642,"Lafayette, LA",247500
+643,Lake Charles,101600
+551,Lansing,268200
+749,Laredo,78300
+839,Las Vegas,791500
+541,Lexington,514700
+558,Lima,71400
+722,Lincoln & Hastings-Krny,295700
+693,Little Rock-Pine Bluff,590800
+803,Los Angeles,5951300
+529,Louisville,700600
+651,Lubbock,170600
+503,Macon,250700
+669,Madison,410000
+737,Mankato,55600
+553,Marquette,92000
+813,Medford-Klamath Falls,184500
+640,Memphis,682400
+711,Meridian,71000
+528,Miami-Ft. Lauderdale,1716700
+617,Milwaukee,931500
+613,Minneapolis-St. Paul,1854700
+687,Minot-Bsmrck-Dcknsn(Wlstn),178000
+762,Missoula,127600
+686,Mobile-Pensacola (Ft Walt),568700
+628,Monroe-El Dorado,183200
+828,Monterey-Salinas,250100
+698,Montgomery-Selma,245300
+570,Myrtle Beach-Florence,306300
+659,Nashville,1099200
+622,New Orleans,685700
+501,New York,7918700
+544,Norfolk-Portsmth-Newpt Nws,744500
+740,North Platte,15700
+633,Odessa-Midland,169700
+650,Oklahoma City,751100
+652,Omaha,442000
+534,Orlando-Daytona Bch-Melbrn,1590700
+631,Ottumwa-Kirksville,50500
+632,Paducah-Cape Girard-Harsbg,401300
+804,Palm Springs,167900
+656,Panama City,150300
+597,Parkersburg,65000
+675,Peoria-Bloomington,256500
+504,Philadelphia,3074500
+753,Phoenix (Prescott),2008100
+508,Pittsburgh,1210100
+820,"Portland, OR",1292900
+500,Portland-Auburn,422200
+552,Presque Isle,30000
+521,Providence-New Bedford,635500
+717,Quincy-Hannibal-Keokuk,108300
+560,Raleigh-Durham (Fayetvlle),1221800
+764,Rapid City,108400
+811,Reno,289000
+556,Richmond-Petersburg,589500
+573,Roanoke-Lynchburg,475100
+538,"Rochester, NY",438000
+611,Rochestr-Mason City-Austin,153200
+610,Rockford,183100
+862,Sacramnto-Stkton-Modesto,1485600
+576,Salisbury,170400
+770,Salt Lake City,1027500
+661,San Angelo,59900
+641,San Antonio,974000
+825,San Diego,1160800
+807,San Francisco-Oak-San Jose,2778200
+855,SantaBarbra-SanMar-SanLuOb,255700
+507,Savannah,361100
+819,Seattle-Tacoma,2049500
+657,Sherman-Ada,133600
+612,Shreveport,398500
+624,Sioux City,162900
+725,Sioux Falls(Mitchell),283300
+588,South Bend-Elkhart,341400
+881,Spokane,462300
+619,"Springfield, MO",441500
+543,Springfield-Holyoke,273100
+638,St. Joseph,48100
+609,St. Louis,1282900
+555,Syracuse,403000
+530,Tallahassee-Thomasville,287300
+539,Tampa-St. Pete (Sarasota),1920200
+581,Terre Haute,147100
+547,Toledo,427800
+605,Topeka,185500
+540,Traverse City-Cadillac,256700
+531,"Tri-Cities, TN-VA",331800
+789,Tucson (Sierra Vista),466500
+671,Tulsa,555300
+760,Twin Falls,69700
+709,Tyler-Longview(Lfkn&Ncgd),282900
+526,Utica,108500
+626,Victoria,34800
+625,Waco-Temple-Bryan,379600
+511,"Washington, DC (Hagrstwn)",2580800
+549,Watertown,97000
+705,Wausau-Rhinelander,188600
+548,West Palm Beach-Ft. Pierce,842800
+554,Wheeling-Steubenville,139100
+627,Wichita Falls & Lawton,164200
+678,Wichita-Hutchinson Plus,478100
+577,Wilkes Barre-Scranton-Hztn,603400
+550,Wilmington,207200
+810,Yakima-Pasco-Rchlnd-Knnwck,252900
+536,Youngstown,269200
+771,Yuma-El Centro,118200
+596,Zanesville,34600
